@@ -1,0 +1,28 @@
+body {
+    background-color:rgba(235, 229, 229, 0.24);
+    background: url(/img/clouds-3488632.jpg);
+    
+}
+
+
+
+    
+.heading{
+    color: purple;
+} 
+.form-control {
+width: 50%;
+
+}
+.input1{
+    display: flex;
+    justify-content: center;
+}
+
+.weather-icon {
+    position: relative;
+    border-radius: 50%;
+    width:100px;
+    margin-top: -50px;
+    background-color: beige;
+}
